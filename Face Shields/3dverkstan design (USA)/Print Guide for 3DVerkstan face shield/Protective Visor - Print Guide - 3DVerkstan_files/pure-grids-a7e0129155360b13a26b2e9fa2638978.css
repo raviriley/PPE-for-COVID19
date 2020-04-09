@@ -1,0 +1,45 @@
+/*!
+Pure v0.4.2
+Copyright 2014 Yahoo! Inc. All rights reserved.
+Licensed under the BSD License.
+https://github.com/yui/pure/blob/master/LICENSE.md
+
+
+@media (min-width: 980px) {
+    .pure-visible-phone {
+        display: none
+    }
+    .pure-visible-tablet {
+        display: none
+    }
+    .pure-hidden-desktop {
+        display: none
+    }
+}
+@media (max-width: 480px) {
+    .pure-g-r>.pure-u,
+    .pure-g-r>[class *="pure-u-"] {
+        width: 100%
+    }
+}
+@media (max-width: 767px) {
+    .pure-g-r>.pure-u,
+    .pure-g-r>[class *="pure-u-"] {
+        width: 100%
+    }
+    .pure-hidden-phone {
+        display: none
+    }
+    .pure-visible-desktop {
+        display: none
+    }
+}
+@media (min-width: 768px) and (max-width: 979px) {
+    .pure-hidden-tablet {
+        display: none
+    }
+    .pure-visible-desktop {
+        display: none
+    }
+}
+*/

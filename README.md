@@ -1,5 +1,7 @@
 # PPE for COVID19-Los Angeles
- 
+
+This is a hub of information for how you can help 
+
 [National Institutes of Health 3D Print Exchange](https://3dprint.nih.gov/collections/covid-19-response)
 
 [3DVerkstan Face Shield Design](https://3dverkstan.se/protective-visor/)
