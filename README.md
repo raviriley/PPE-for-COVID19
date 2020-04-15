@@ -1,17 +1,22 @@
 # How You Can Help
 
-#### **Quick Links:** 
-If you have a 3D printer, print [face shield frames](/Face%20Shield/3D%20Printing%20Files%20(STL)/Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) and [surgical mask strain relievers](/surgical%20mask%20strap%20strain%20relief.stl). Ideally print with PETG, if you can't print that use PLA.
+video coming soon
+
+### **Quick Links:** 
+If you have a 3D printer, print [face shield frames](/Face%20Shield/3D%20Printing%20Files%20(STL)/Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) and [surgical mask strain relievers](/surgical%20mask%20strap%20strain%20relief.stl). Ideally print with PETG, if you can't just use PLA.
+[READ THIS PRINT GUIDE, this also applies to strain relievers!](https://3dverkstan.se/protective-visor/protective-visor-print-guide/)
 
 If you have a laser cutter, cut [face shield visors](/Face%20Shield/Templates%20%26%20Laser%20Cutting%20files) from transparent 8.5x11" sheets, such as [this](https://www.amazon.com/CFS-Products-Inches-Binding-Covers/dp/B07SB6ZKBD) or [this](https://www.amazon.com/Fellowes-Binding-Presentation-Covers-52089/dp/B0015ZVXIW/).
 
+<!--
 ### Face Shields
-With the 3DVerkstan design, each face shield consists of 2 parts: a 3D-printed frame and a transparent visor. For more info on this design, click [here](https://3dverkstan.se/protective-visor/). 
+
+With the 3DVerkstan design, each face shield consists of 2 parts: a 3D-printed frame and a transparent visor. For more info on the design, click [here](https://3dverkstan.se/protective-visor/). 
 #### 3D Printed Frame
 
 #### Visor
 These can be made by hand or with a laser cutter. 
-
+-->
 
 
 
