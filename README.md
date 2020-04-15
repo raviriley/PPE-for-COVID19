@@ -18,18 +18,18 @@ With the 3DVerkstan design, each face shield consists of 2 parts: a 3D-printed f
 These can be made by hand or with a laser cutter. 
 -->
 
-
+--------
 
 ### COVID-19 Information/Trackers
-[CDC - How to make a cloth face mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
+- [CDC - How to make a cloth face mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
 
-[LA County Deptartment of Public Health](http://publichealth.lacounty.gov/)
+- [LA County Deptartment of Public Health](http://publichealth.lacounty.gov/)
 
-[Johns Hopkins Interactive Map](https://coronavirus.jhu.edu/map.html)
+- [Johns Hopkins Interactive Map](https://coronavirus.jhu.edu/map.html)
 
-[USC-Verdugo Hills Hospital’s virtual dashboard](https://uscvhh.org/coronavirus-concerns)
+- [USC-Verdugo Hills Hospital’s virtual dashboard](https://uscvhh.org/coronavirus-concerns)
 
-[Google Mobility Trends](https://www.google.com/covid19/mobility/)
+- [Google Mobility Trends](https://www.google.com/covid19/mobility/)
 
 <!--
 To-do
