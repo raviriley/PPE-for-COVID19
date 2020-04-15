@@ -1,6 +1,6 @@
 # How You Can Help
 
-##### Quick Links: 
+#### **Quick Links:** 
 If you have a 3D printer, print [face shield frames]() and [surgical mask strain relievers](/surgical%20mask%20strap%20strain%20relief.stl). 
 
 If you have a laser cutter, cut [face shield visors](/Face%20Shield/Templates%20%26%20Laser%20Cutting%20files) from transparent 8.5x11" sheets, such as [this](https://www.amazon.com/CFS-Products-Inches-Binding-Covers/dp/B07SB6ZKBD).
