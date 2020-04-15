@@ -1,10 +1,8 @@
 # How You Can Help
 
-If you have a 3D printer, 3D print face shields and surgical mask strain relievers. If you have a lasercutter, cut out visors for face shields
+If you have a 3D printer, 3D print face shields and [surgical mask strain relievers](/surgical%20mask%20strap%20strain%20relief.stl). 
+### Face Shields
 
-[Laser Cutting][lasercutting-files]
-
-[lasercutting-files]: /Face Shield/Templates & Laser Cutting files/
 
 
 [National Institutes of Health 3D Print Exchange](https://3dprint.nih.gov/collections/covid-19-response)
