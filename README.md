@@ -38,4 +38,6 @@ Single extrusion stacks with a specific layer height
 - different ones for different nozzle sizes and corresponding layer height as listed on the website
 -->
 
+--------
+
 **Explore more 3D printable designs at the [National Institutes of Health 3D Print Exchange for COVID-19](https://3dprint.nih.gov/collections/covid-19-response)**
