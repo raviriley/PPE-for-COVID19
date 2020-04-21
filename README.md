@@ -1,6 +1,6 @@
 # How You Can Help
 
-video coming soon
+video coming soon + distribution process
 
 ### **Quick Links:** 
 With the 3DVerkstan design, each face shield consists of just 2 parts: a 3D-printed frame and a transparent visor. For more info on the design, click [here](https://3dverkstan.se/protective-visor/). 
