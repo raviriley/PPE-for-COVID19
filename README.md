@@ -9,17 +9,14 @@ If you have a 3D printer, print [face shield frames](/Face%20Shield/3D%20Printin
 [READ THIS PRINT GUIDE, this also applies to strain relievers!](https://3dverkstan.se/protective-visor/protective-visor-print-guide/)
 
 If you have a laser cutter, cut [face shield visors](/Face%20Shield/Templates%20%26%20Laser%20Cutting%20files) from transparent 8.5x11" sheets, such as [this](https://www.amazon.com/CFS-Products-Inches-Binding-Covers/dp/B07SB6ZKBD) or [this](https://www.amazon.com/Fellowes-Binding-Presentation-Covers-52089/dp/B0015ZVXIW/).
-
-
-
 <!--
-### Face Shields
+#### Current stock:
+3DP filament: a huge amount
+Transparent sheets for visors: 100
 
-
-#### 3D Printed Frame
-
-#### Visor
-These can be made by hand or with a laser cutter. 
+#### Current deliveries: 
+Face shields: 
+Strain relievers: 
 -->
 
 --------
