@@ -2,10 +2,19 @@
 
 video coming soon + distribution process
 
-### **Quick Links:** 
-With the 3DVerkstan design, each face shield consists of just 2 parts: a 3D-printed frame and a transparent visor. For more info on the design, click [here](https://3dverkstan.se/protective-visor/). 
+### **Quick Links:**
+With the 3DVerkstan design, each face shield consists of just 2 parts: a 3D-printed frame and a transparent visor. For more info on the design, click [here](https://3dverkstan.se/protective-visor/).
 
-If you have a 3D printer, print [face shield frames](/Face%20Shield/3D%20Printing%20Files%20(STL)/Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) and [surgical mask strain relievers](/surgical%20mask%20strap%20strain%20relief.stl). Ideally print with PETG, if you can't just use PLA.
+<div>
+<a href="https://mk03dverkstanb4pk6hu.kinstacdn.com/wp-content/uploads/2020/04/liggande1.jpg">
+<img src="https://mk03dverkstanb4pk6hu.kinstacdn.com/wp-content/uploads/2020/04/liggande1.jpg" width="300">
+</a>
+<a href="https://mk03dverkstanb4pk6hu.kinstacdn.com/wp-content/uploads/2020/04/printoh3.jpg">
+<img src="https://mk03dverkstanb4pk6hu.kinstacdn.com/wp-content/uploads/2020/04/printoh3.jpg" width="300">
+</a>
+</div>
+
+If you have a 3D printer, print [face shield frames (stl)](/Face%20Shield/3D%20Printing%20Files%20(STL)/Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) and [surgical mask strain relievers (stl)](/surgical%20mask%20strap%20strain%20relief.stl). Ideally print with PETG, if you can't just use PLA.
 [READ THIS PRINT GUIDE, this also applies to strain relievers!](https://3dverkstan.se/protective-visor/protective-visor-print-guide/)
 
 If you have a laser cutter, cut [face shield visors](/Face%20Shield/Templates%20%26%20Laser%20Cutting%20files) from transparent 8.5x11" sheets, such as [this](https://www.amazon.com/CFS-Products-Inches-Binding-Covers/dp/B07SB6ZKBD) or [this](https://www.amazon.com/Fellowes-Binding-Presentation-Covers-52089/dp/B0015ZVXIW/).
@@ -14,9 +23,9 @@ If you have a laser cutter, cut [face shield visors](/Face%20Shield/Templates%20
 3DP filament: a huge amount
 Transparent sheets for visors: 100
 
-#### Current deliveries: 
-Face shields: 
-Strain relievers: 
+#### Current deliveries:
+Face shields:
+Strain relievers:
 -->
 
 --------
