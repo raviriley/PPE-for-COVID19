@@ -1,4 +1,11 @@
-//Choose North American, Swedish, European, or Prusa visor compatible variant of the face shield
+/*
+3D Verkstan Face Shield Stacker
+
+    This script generates a vertical stack of face shield frames, which enables many frames to be printed at once. You can either max out your build volume or choose the number of frames you want in the stack.
+
+*/
+
+//Choose North American, Swedish, European, or the Prusa visor compatible variant of the face shield
 Variant = "North America"; //[North America, Sweden, Europe, Prusa Compatible]
 //(mm)
 Build_volume_height = 200;
@@ -36,3 +43,5 @@ module stack(num) { stacker(num){frame();} }
 module maxStack() stack(max_frames);
 
 if (Number_of_face_shield_frames_in_a_stack == "Maximum") maxStack(); else stack(User_Specified);
+
+//Created by Ravi Riley
