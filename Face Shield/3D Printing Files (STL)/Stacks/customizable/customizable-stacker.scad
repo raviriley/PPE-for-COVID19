@@ -24,7 +24,7 @@ unit_height = (5+(Layers_gap*Layer_height)); //5mm = height of each face shield 
 max_frames = floor(Build_volume_height/unit_height); //max number of face shield frames that can fit in the entered build volume
 
 /// end customizable parameters ///
-include <utils/build_plate.scad>;
+//include <utils/build_plate.scad>; //for Thingiverse Customizer
 
 module frame() {
     if (Variant == "North America") import("North America 6hole_v5.stl", convexity=10);
