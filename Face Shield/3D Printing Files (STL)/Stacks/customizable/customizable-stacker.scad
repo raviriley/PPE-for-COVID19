@@ -35,7 +35,7 @@ max_frames = floor(Build_volume_height/unit_height); //max number of face shield
 module frame() {
     if (Variant == "North America") import("North America 6hole_v5.stl", convexity=10);
     else if (Variant == "Sweden") import("Sweden_v11.stl", convexity=10);
-    else if (Variant == "Europe") import("Europe_ISO838_v4.stl", convexity=10);
+    else if (Variant == "Europe") import("Europe ISO838_v4.stl", convexity=10);
     else import("Prusa Compatible.stl", convexity=10);
 }
 
