@@ -17,7 +17,7 @@ With the 3DVerkstan design, each face shield consists of just 2 parts: a 3D-prin
 If you have a 3D printer, print [face shield frames (stl)](/Face%20Shield/3D%20Printing%20Files%20(STL)/Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) and [surgical mask strain relievers (stl)](/surgical%20mask%20strap%20strain%20relief.stl). Ideally print with PETG, if you can't just use PLA.
 [READ THIS PRINT GUIDE, this also applies to strain relievers!](https://3dverkstan.se/protective-visor/protective-visor-print-guide/)
 
-If you want to print stacks of face shields at a time, check out my [Thingiverse Customizer](https://www.thingiverse.com/apps/customizer/run?thing_id=4311414) or my [OpenSCAD script. Click here for more information.](https://github.com/raviriley/PPE-for-COVID19/tree/master/Face%20Shield/3D%20Printing%20Files%20(STL)/Stacks/customizable)
+If you want to print stacks of face shields, check out my [Thingiverse Customizer](https://www.thingiverse.com/apps/customizer/run?thing_id=4311414) or my [OpenSCAD script. (Click here for more information)](https://github.com/raviriley/PPE-for-COVID19/tree/master/Face%20Shield/3D%20Printing%20Files%20(STL)/Stacks/customizable).
 
 If you have a laser cutter, cut [face shield visors](/Face%20Shield/Templates%20%26%20Laser%20Cutting%20files) from transparent 8.5x11" sheets, such as [this](https://www.amazon.com/CFS-Products-Inches-Binding-Covers/dp/B07SB6ZKBD) or [this](https://www.amazon.com/Fellowes-Binding-Presentation-Covers-52089/dp/B0015ZVXIW/).
 
