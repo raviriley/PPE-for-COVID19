@@ -1,6 +1,6 @@
 #### [Thingiverse Customizer Link](https://www.thingiverse.com/apps/customizer/run?thing_id=4311414)
 
-I created a customizable OpenSCAD script that allows you to easily pick the face shield variant you need and build vertical stacks to mass-produce them. If you have OpenSCAD and want to run this locally, download `run locally.zip`. This will be much faster than rendering in Thingiverse Customizer. 
+I created a customizable OpenSCAD script that allows you to easily pick the face shield variant you need and build vertical stacks to mass-produce them. If you have OpenSCAD and want to run this locally, download [`run locally.zip`](https://github.com/raviriley/PPE-for-COVID19/blob/master/Face%20Shield/3D%20Printing%20Files%20(STL)/Stacks/customizable/run%20locally.zip). This will be much faster than rendering in Thingiverse Customizer. 
 
 ### Features
 - Number of parts in a stack - either specify a number yourself or let the script calculate the max number of face shields that will fit in your build volume.
