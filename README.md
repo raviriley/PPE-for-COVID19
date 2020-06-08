@@ -28,8 +28,9 @@ If you have a laser cutter, cut [face shield visors](/Face%20Shield/Templates%20
 Transparent sheets for visors: 100
 
 #### Current deliveries:
-Face shields:
-Strain relievers:
+Face shields: 12
+Strain relievers: 5
+adam 94, sako 3, me ?
 -->
 
 --------
