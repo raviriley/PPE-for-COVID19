@@ -1,6 +1,11 @@
 # How You Can Help
 
-<!--video coming soon + distribution process-->
+<!--video done, embed image that links to video?-->
+PPE Makers: [Ravi Riley](https://github.com/raviriley), [Sako Chekerjian](https://github.com/sakorocco), [Adam Komjathy](https://github.com/adamkomjathy) 
+
+![Face Shields](https://img.shields.io/badge/Face%20Shields-73-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-5-blue.svg) 
+
+We need help fabricating face shields and surgical mask strain relievers. 
 
 ### **Quick Links:**
 With the 3DVerkstan design, each face shield consists of just 2 parts: a 3D-printed frame and a transparent visor. For more info on the design, click [here](https://3dverkstan.se/protective-visor/).
@@ -17,21 +22,12 @@ With the 3DVerkstan design, each face shield consists of just 2 parts: a 3D-prin
 If you have a 3D printer, print [face shield frames (stl)](/Face%20Shield/3D%20Printing%20Files%20(STL)/Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl) and [surgical mask strain relievers (stl)](/surgical%20mask%20strap%20strain%20relief.stl). Ideally print with PETG, if you can't just use PLA.
 [READ THIS PRINT GUIDE, this also applies to strain relievers!](https://3dverkstan.se/protective-visor/protective-visor-print-guide/)
 
-If you want to print stacks of face shields, check out my [Thingiverse Customizer](https://www.thingiverse.com/apps/customizer/run?thing_id=4311414) or my [OpenSCAD script. (Click here for more information)](https://github.com/raviriley/PPE-for-COVID19/tree/master/Face%20Shield/3D%20Printing%20Files%20(STL)/Stacks/customizable).
+If you want to 3D print stacks of face shields, check out my stack generator on [Thingiverse Customizer](https://www.thingiverse.com/apps/customizer/run?thing_id=4311414) or the [OpenSCAD script. (Click here for more information)](https://github.com/raviriley/PPE-for-COVID19/tree/master/Face%20Shield/3D%20Printing%20Files%20(STL)/Stacks/customizable).
 
 If you have a laser cutter, cut [face shield visors](/Face%20Shield/Templates%20%26%20Laser%20Cutting%20files) from transparent 8.5x11" sheets, such as [this](https://www.amazon.com/CFS-Products-Inches-Binding-Covers/dp/B07SB6ZKBD) or [this](https://www.amazon.com/Fellowes-Binding-Presentation-Covers-52089/dp/B0015ZVXIW/).
 
-
-<!--
-#### Current stock:
-3DP filament: a huge amount
-Transparent sheets for visors: 100
-
-#### Current deliveries:
-Face shields: 12
-Strain relievers: 5
-adam 94, sako 3, me ?
--->
+If you want to help out, please [![Donate via PayPal](https://img.shields.io/badge/PayPal-donate-green.svg?logo=paypal)](https://www.paypal.me/raviriley)
+ so we can buy more filament and plastic sheets. 
 
 --------
 
@@ -45,13 +41,6 @@ adam 94, sako 3, me ?
 - [USC-Verdugo Hills Hospital’s virtual dashboard](https://uscvhh.org/coronavirus-concerns)
 
 - [Google Mobility Trends](https://www.google.com/covid19/mobility/)
-
-<!--
-To-do
-Single extrusion stacks with a specific layer height
-- use devin montes method
-- different ones for different nozzle sizes and corresponding layer height as listed on the website
--->
 
 --------
 
