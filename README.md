@@ -3,7 +3,7 @@
 <!--video done, embed image that links to video?-->
 PPE Makers: [Ravi Riley](https://github.com/raviriley), [Sako Chekerjian](https://github.com/sakorocco), [Adam Komjathy](https://github.com/adamkomjathy) 
 
-![Face Shields](https://img.shields.io/badge/Face%20Shields-73-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-5-blue.svg) 
+![Face Shields](https://img.shields.io/badge/Face%20Shields-101-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-6-blue.svg) 
 
 We need help fabricating face shields and surgical mask strain relievers. 
 
