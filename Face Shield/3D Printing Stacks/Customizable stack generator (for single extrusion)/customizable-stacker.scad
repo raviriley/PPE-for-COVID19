@@ -29,9 +29,21 @@ Layer_gap = 2;
 unit_height = (5+(Layer_gap*Layer_height)); //5mm = height of each face shield frame
 echo ("Unit Height:");
 echo (unit_height);
+
 max_frames = floor(Build_volume_height/unit_height); //max number of face shield frames that can fit in the entered build volume
 echo ("Max frames:");
 echo (max_frames);
+
+if (Number_of_face_shield_frames_in_a_stack == "User Specified") {
+    current_height = (User_Specified*unit_height-0.5);
+    echo ("Current height:");
+    echo (current_height);
+}
+else {
+    current_height = (max_frames*unit_height-0.5);
+    echo ("Current height:");
+    echo (current_height);
+}
 
 /// end customizable parameters ///
 //include <utils/build_plate.scad>; //for Thingiverse Customizer
