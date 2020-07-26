@@ -5,7 +5,7 @@
 
 ##### Donors: [FRC Team 589](https://cvrobots.com), my parents, [Dr. Neat](http://www.drneato.com)
 
-![Face Shields](https://img.shields.io/badge/Face%20Shields-101-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-6-blue.svg) 
+![Face Shields](https://img.shields.io/badge/Face%20Shields-122-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-46-blue.svg) 
 
 We need help fabricating face shields and surgical mask strain relievers. 
 
