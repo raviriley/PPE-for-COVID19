@@ -2,7 +2,7 @@ Featured on Dr. Neato's Vlog: https://www.youtube.com/watch?v=sHTiJ7Pke1Q
 
 --------
 
-##### PPE Makers/Assemblers: [Ravi Riley](https://github.com/raviriley), [Sako Chekerjian](https://github.com/sakorocco), Henri Gang and Troupe 504, [Adam Komjathy](https://github.com/adamkomjathy), Eric Limonadi
+##### PPE Makers/Assemblers: [Ravi Riley](https://github.com/raviriley), [Sako Chekerjian](https://github.com/sakorocco), Henri Gang and Troupe 509, [Adam Komjathy](https://github.com/adamkomjathy), Eric Limonadi
 
 ##### Donors: [FRC Team 589](https://cvrobots.com), my parents, [Dr. Neat](http://www.drneato.com)
 
