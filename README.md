@@ -1,17 +1,16 @@
-# How You Can Help
+Featured on Dr. Neato's Vlog: https://www.youtube.com/watch?v=sHTiJ7Pke1Q
 
-<!--video done, embed image that links to video?-->
-##### PPE Makers: [Ravi Riley](https://github.com/raviriley), [Sako Chekerjian](https://github.com/sakorocco), Henri Gang and Troupe 504, [Adam Komjathy](https://github.com/adamkomjathy), Eric Limonadi
+##### PPE Makers/Assemblers: [Ravi Riley](https://github.com/raviriley), [Sako Chekerjian](https://github.com/sakorocco), Henri Gang and Troupe 504, [Adam Komjathy](https://github.com/adamkomjathy), Eric Limonadi
 
 ##### Donors: [FRC Team 589](https://cvrobots.com), my parents, [Dr. Neat](http://www.drneato.com)
 
-##### Customers: Verdugo Hills Hosptial, Keck Medicine of USC, Crescenta Valley High School, 
+##### Recipients: Verdugo Hills Hosptial, Keck Medicine of USC
 
 ![Face Shields](https://img.shields.io/badge/Face%20Shields-122-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-46-blue.svg) 
 
 We need help fabricating face shields and surgical mask strain relievers. 
 
-### **Quick Links:**
+### **Take Action**
 Each face shield consists of just 2 parts: a 3D-printed frame and a transparent visor. For more info on the design, click [here](https://3dverkstan.se/protective-visor/).
 
 <div>
