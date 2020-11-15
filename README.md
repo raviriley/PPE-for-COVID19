@@ -6,7 +6,7 @@ Featured on Dr. Neato's Vlog: https://www.youtube.com/watch?v=sHTiJ7Pke1Q
 
 ##### Donors: [FRC Team 589](https://cvrobots.com), my parents, [Dr. Neat](http://www.drneato.com)
 
-##### Recipients: Verdugo Hills Hosptial, Keck Medicine of USC
+##### Recipients: Verdugo Hills Hosptial, Keck Medicine of USC, CVHS, Local essential workers
 
 ![Face Shields](https://img.shields.io/badge/Face%20Shields-548-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-374-blue.svg) 
 
