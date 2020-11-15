@@ -8,7 +8,7 @@ Featured on Dr. Neato's Vlog: https://www.youtube.com/watch?v=sHTiJ7Pke1Q
 
 ##### Recipients: Verdugo Hills Hosptial, Keck Medicine of USC
 
-![Face Shields](https://img.shields.io/badge/Face%20Shields-148-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-174-blue.svg) 
+![Face Shields](https://img.shields.io/badge/Face%20Shields-548-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-374-blue.svg) 
 
 --------
 
