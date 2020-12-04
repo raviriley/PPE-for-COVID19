@@ -1,4 +1,4 @@
-Featured on Dr. Neato's Vlog: https://www.youtube.com/watch?v=sHTiJ7Pke1Q
+Featured on Dr. Neat's Vlog: https://www.youtube.com/watch?v=sHTiJ7Pke1Q
 
 --------
 
@@ -8,7 +8,7 @@ Featured on Dr. Neato's Vlog: https://www.youtube.com/watch?v=sHTiJ7Pke1Q
 
 ##### Recipients: Verdugo Hills Hosptial, Keck Medicine of USC, CVHS, Local essential workers
 
-![Face Shields](https://img.shields.io/badge/Face%20Shields-548-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-374-blue.svg) 
+![Face Shields](https://img.shields.io/badge/Face%20Shields-554-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-374-blue.svg) 
 
 --------
 
