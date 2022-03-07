@@ -1,20 +1,21 @@
 Featured on Dr. Neat's Vlog: https://www.youtube.com/watch?v=sHTiJ7Pke1Q
 
---------
+---
 
 ##### PPE Makers/Assemblers: [Ravi Riley](https://github.com/raviriley), [Sako Chekerjian](https://github.com/sakorocco), Eric Limonadi, [Adam Komjathy](https://github.com/adamkomjathy)
 
 ##### Donors: [FRC Team 589](https://cvrobots.com), my parents, [Dr. Neat](http://www.drneato.com)
 
-##### Recipients: Verdugo Hills Hosptial, Keck Medicine of USC, CVHS, Local essential workers
+##### Recipients: Verdugo Hills Hosptial, Keck Medicine of USC, CVHS, local essential workers
 
-![Face Shields](https://img.shields.io/badge/Face%20Shields-701-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-374-blue.svg) 
+![Face Shields](https://img.shields.io/badge/Face%20Shields-701-blue.svg) ![Strain Relievers](https://img.shields.io/badge/Strain%20Relievers-374-blue.svg)
 
---------
+---
 
-We need help fabricating face shields and surgical mask strain relievers. 
+We need help fabricating face shields and surgical mask strain relievers.
 
 ### **Take Action**
+
 Each face shield consists of just 2 parts: a 3D-printed frame and a transparent visor. For more info on the design, click [here](https://3dverkstan.se/protective-visor/).
 
 <div>
@@ -34,9 +35,9 @@ Printing face shield frames one at a time can be super time consuming, so if you
 If you have a laser cutter, cut [face shield visors](/Face%20Shield/Templates%20%26%20Laser%20Cutting%20files) from transparent 8.5x11" sheets, such as [this](https://www.amazon.com/CFS-Products-Inches-Binding-Covers/dp/B07SB6ZKBD) or [this](https://www.amazon.com/Fellowes-Binding-Presentation-Covers-52089/dp/B0015ZVXIW/).
 
 If you want to help out, please [![Donate via PayPal](https://img.shields.io/badge/PayPal-donate-green.svg?logo=paypal)](https://www.paypal.me/raviriley)
- so we can buy more filament and plastic sheets. Thank you to our current donors for their contributions!
+so we can buy more filament and plastic sheets. Thank you to our current donors for their contributions!
 
---------
+---
 
 ### COVID-19 Information/Trackers
 
@@ -46,9 +47,12 @@ If you want to help out, please [![Donate via PayPal](https://img.shields.io/bad
 
 - [Google Mobility Trends](https://www.google.com/covid19/mobility/)
 
---------
+---
 
 **Explore more 3D printable designs at the [National Institutes of Health 3D Print Exchange for COVID-19](https://3dprint.nih.gov/collections/covid-19-response)**
 
+---
+
 #### Demo of Face Shield Stacker OpenSCAD Script
-![Demo of OpenSCAD Script](demo.gif)
+
+![Demo of OpenSCAD Script](https://github.com/raviriley/PPE-for-COVID19/blob/master/Face%20Shield/3D%20Printing%20Stacks/Customizable%20stack%20generator/demo.gif?raw=true)
